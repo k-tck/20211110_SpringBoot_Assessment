@@ -1,0 +1,10 @@
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/repository/TodoRepository.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/TodoManagementSpringBoot2Application.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/service/ITodoService.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/security/SecurityConfiguration.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/model/Todo.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/service/TodoService.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/controller/WelcomeController.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/controller/ErrorController.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/controller/TodoController.java
+/Users/ken/Desktop/Assignment/20211110_SpringBoot_Assessment/assessment/src/main/java/net/guides/springboot/todomanagement/controller/LogoutController.java
